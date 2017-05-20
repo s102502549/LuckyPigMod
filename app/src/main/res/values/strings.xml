@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">LuckyPigMod</string>
+    <string name="info">歡迎使用LuckyPigMod\n\n您可以使用此程式來修改任意App的記憶體資料\n\n目前提供精確搜尋及模糊搜尋\n\n此程式只支援armeabi及x86且Android版本4.1以上\n\n手機必須有root權限</string>
+    <string name="exit">離開</string>
+    <string name="start">開始</string>
+    <string name="cannot_use">很遺憾，您的設備無法使用此App</string>
+    <string name="search">搜尋</string>
+    <string name="lock_list">鎖定清單</string>
+    <string name="reSearch">重新搜尋</string>
+    <string name="value">value</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+    <string name="dot">.</string>
+    <string name="back">←</string>
+    <string name="delete">刪除</string>
+    <string name="open_top">請將上層顯示權限開啟</string>
+    <string name="click_to_select">點擊以選取process</string>
+    <string name="searching">搜尋中</string>
+    <string name="want_value">請輸入欲修改的值</string>
+    <string-array name="types">
+        <item>byte</item>
+        <item>word</item>
+        <item>dword</item>
+        <item>qword</item>
+        <item>float</item>
+        <item>double</item>
+    </string-array>
+    <string-array name="ops">
+        <item>=</item>
+        <item>&lt;</item>
+        <item>&gt;</item>
+        <item>equal</item>
+        <item>unequal</item>
+    </string-array>
+</resources>
